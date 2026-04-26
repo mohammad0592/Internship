@@ -1,0 +1,24 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build / tooling artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Recbole / training outputs
+saved/
+log_tensorboard/
+
+# Optional: keep local logs out of git. Comment this out if you want to version all logs.
+# log/
