@@ -20,7 +20,14 @@
 ### Run `bpr-ml100k-2026-04-26-21-31-47`
 
 - Best epoch: `50`
-- Best/test summary: not printed in log tail captured in repo.
+- Best valid: `MRR@10 = 0.3893`
+- Test: run was interrupted after epoch 61 — no final test evaluation was printed
+- Valid metrics at epoch 50:
+  - `recall@10`: 0.2085
+  - `mrr@10`: 0.3893
+  - `ndcg@10`: 0.2302
+  - `hit@10`: 0.7402
+  - `precision@10`: 0.1583
 - Log: `log/BPR/BPR-ml-100k-Apr-26-2026_21-31-47-c13701.log`
 
 ## Task 03 Git Tracking
