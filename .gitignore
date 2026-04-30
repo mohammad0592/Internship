@@ -16,9 +16,8 @@ env/
 .DS_Store
 Thumbs.db
 
-# Recbole / training outputs
-saved/
+# TensorBoard runs
 log_tensorboard/
 
-# Optional: keep local logs out of git. Comment this out if you want to version all logs.
-# log/
+# Large model checkpoints stored on Google Drive
+saved/task-04/
