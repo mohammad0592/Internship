@@ -20,4 +20,4 @@ Thumbs.db
 log_tensorboard/
 
 # Large model checkpoints stored on Google Drive
-saved/task-04/
+saved/task-04/*.pth
