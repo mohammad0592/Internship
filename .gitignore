@@ -21,3 +21,4 @@ log_tensorboard/
 
 # Large model checkpoints stored on Google Drive
 saved/task-04/*.pth
+saved/task-05/*.pth

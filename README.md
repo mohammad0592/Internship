@@ -43,3 +43,4 @@ pip install -r requirements.txt
 |---|---|---|---|---|
 | task-03 | ml-100k | BPR | Local | [results](docs/tasks/task-03-results.md) |
 | task-04 | Amazon Electronics | BPR | Google Colab | [results](docs/tasks/task-04-results.md) |
+| task-05 | Amazon Electronics | NeuMF, LightGCN, SASRec, ItemKNN, DeepFM | Google Colab | [results](docs/tasks/task-05-results.md) |
